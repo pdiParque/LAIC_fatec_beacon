@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="IodvEURNp0gZ_R04xfUv">
+    <mxGraphModel dx="1871" dy="4109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="290" />
+            </Array>
+            <mxPoint x="273.75" y="290" as="sourcePoint" />
+            <mxPoint x="270" y="125.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-15" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;ESP32 BLE SCANNER (wearable)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-20" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.005;exitY=0.431;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" target="hsjrpC1Bhf_ZDzmZKea3-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="789.9999999999998" as="sourcePoint" />
+            <mxPoint x="170" y="802.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-35" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Power management e proteção bateria&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="240" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="839.9999999999998" as="sourcePoint" />
+            <mxPoint x="240" y="839.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Bateria&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="40" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-8" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Fonte externa para carregamento&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="240" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-16" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Driver de acionamento&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="530" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Motor vibratório&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="740" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-17" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348.75" y="190" />
+              <mxPoint x="348.75" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;ESP32 BLE BEACON&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;(poste)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="240" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Aqui o objetivo é identificar o RSSI da conexão e realizar uma média de determinada amostragem&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="140" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Saída digital PWM inversamente proporcional ao sinal RSSI&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;O driver funciona como uma chave on/off para acionamento de cargas de maior corrente (transistor ou mosfet)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="555" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Motor vibratório manter uma proporção de vibração com a tensão média aplicada e resultando do PWM&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="132.5" x="746.25" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="390" width="190" x="217.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Para baterias é necessário considerar proteção de sobrecorrente, sobretensão, descarga profunda, entre outros&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="165" width="120" x="414" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-30" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="325" as="sourcePoint" />
+            <mxPoint x="180" y="362.47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Sensor de movimento braço usuário&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="40" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Com objetivo de redução de energia o BLE só entra em operação se movimento no braço for detectado (acelerômetro, giroscópio, etc)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="-90" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-36" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-37" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-38" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Regulador de tensão&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="153" width="145" x="240" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Os módulos de desenvolvimento ESP32 já contam com reguladores lineares, porém o consumo pode aumentar, verificar esta questão&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="165" width="120" x="97.5" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-41" edge="1" parent="1" source="hsjrpC1Bhf_ZDzmZKea3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hsjrpC1Bhf_ZDzmZKea3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsjrpC1Bhf_ZDzmZKea3-40" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Alimentação externa&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="240" y="-220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
