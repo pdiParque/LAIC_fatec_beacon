@@ -50,7 +50,7 @@ static void start_advertising(void) {
     }
 
 
-    ble_svc_gap_device_name_set("FATEC-TESTE");
+    ble_svc_gap_device_name_set("FATEC-TESTE-1");
 
     /* Local variables */
     int rc = 0;
